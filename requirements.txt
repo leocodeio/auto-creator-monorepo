@@ -1,5 +1,12 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
+fastapi
+python-multipart
+uvicorn
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
 accelerate==0.28.0
 audio-separator==0.17.2
 av==12.1.0
